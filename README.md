@@ -1,1 +1,1 @@
-[# caydanlik](https://caydanlikcaydirim.netlify.app/)
+#https://caydanlikcaydirim.netlify.app/
